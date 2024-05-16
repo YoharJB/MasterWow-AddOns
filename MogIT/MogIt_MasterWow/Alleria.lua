@@ -1,0 +1,13 @@
+local i = MogIt.base.AddSlot("Alleria Windrunner", ...)
+-- i(itemID,display,"name",itemLevel,quality,levelReq,faction,class,bind,slot,sheath,source,sourceid,zone,sourceinfo) 
+-- Example item
+i(74039, 1, "Ramaladni's Blade of Culling", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74038, 2, "Ramaladni's Blade of Culling", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74037, 3, "Ramaladni's Blade of Culling", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74036, 4, "Ramaladni's Blade of Culling", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74035, 5, "Ramaladni's Blade of Culling", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74034, 6, "Ramaladni's Blade of Culling", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74033, 7, "Ramaladni's Blade of Culling", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74032, 8, "Ramaladni's Blade of Culling", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74031, 9, "Ramaladni's Blade of Culling", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)
+i(74030, 10, "Ramaladni's Blade of Culling", 80, 5, 80, nil, nil, 3, nil, 1, 1, 47037, nil, nil)

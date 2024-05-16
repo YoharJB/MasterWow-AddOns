@@ -1,0 +1,12 @@
+﻿## Interface: 30300
+## Title: MogIt_Custom
+## Notes: Adds custom items to the MogIt database
+## Author: Aelobin (The Maelstrom EU)
+## Version: 2.0
+## LoadOnDemand: 1
+## RequiredDeps: MogIt
+## X-MogItModuleVersion: 2
+
+MogIt_Custom.lua
+MasterBosses.lua
+Alleria.lua

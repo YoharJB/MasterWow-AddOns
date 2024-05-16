@@ -1,0 +1,5 @@
+## Interface: 30200
+## Title: Align - [|cff001BFFMasterWow|r]
+## Author: Akeru/Amadeo (swyatt@gmail.com)
+## Notes: Grid to Align UI elements.
+Align.lua

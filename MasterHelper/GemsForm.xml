@@ -64,7 +64,7 @@
       </Layer>
     </Layers>
     <Frames>
-      <Button name="$parentButton1" text="+60 Strength">
+      <Button name="$parentButton1" text="+60 Strength test">
         <!--<FrameSkin skinid="dcb143e1-a4ab-4e7c-b934-1efa40101d21" frameid="2d508884-59c2-4f83-ae10-27aaad48391b" />-->
         <Size>
           <AbsDimension x="108" y="17" />

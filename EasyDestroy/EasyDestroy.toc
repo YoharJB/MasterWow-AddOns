@@ -1,0 +1,16 @@
+## Interface: 30300
+## Title: EasyDestroy
+#@debug@
+# ## Title: |cffff0088EBG|r EasyDestroy - MasterWow
+#@end-debug@
+## Notes: Hold Alt-Shift and right-click an item to destroy it.
+## OptionalDeps: myAddOns
+## SavedVariables: EasyDestroy_Options, EasyDestroy_Safe
+## Version: v201008060212
+## Author: egingell
+## X-Curse-Packaged-Version: v201008060212
+## X-Curse-Project-Name: EasyDestroy
+## X-Curse-Project-ID: easy-d
+## X-Curse-Repository-ID: wow/easy-d/mainline-
+
+EasyDestroy.xml

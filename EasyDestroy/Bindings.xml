@@ -1,0 +1,32 @@
+<Bindings>
+    <Binding name="OPTIONS" description="Show EasyDestroy Option Frame" header="ED">
+		EasyDestroyOptions_Toggle();
+    </Binding>
+	<Binding name="NOTIFY">
+		if(EasyDestroy_Options.Notify) then
+			EasyDestroy_Options.Notify = false;
+			Print("|cffffffff["..AddonName.."]" .. " Destroy notifcation |cffff0000disabled|r.|r");
+		else
+			EasyDestroy_Options.Notify = true;
+			Print("|cffffffff["..AddonName.."]" .. " Destroy notifcation |cff00ff00enabled|r.|r");
+		end
+	</Binding>
+	<Binding name="TOGGLE">
+		if(EasyDestroy_Options.On) then
+			EasyDestroy_Options.On = false;
+			Print("|cffffffff["..AddonName.."] |cffff0000disabled|r.|r");
+		else
+			EasyDestroy_Options.On = true;
+			Print("|cffffffff["..AddonName.."] |cff00ff00enabled|r.|r");
+		end
+	</Binding>
+	<Binding name="CURSOR">
+		EasyDestroy_DeleteCursorItem();
+	</Binding>
+	<Binding name="EDCONVERT">
+		EasyDestroy_Convert();
+	</Binding>
+	<Binding name="EDSAFELIST">
+		EasyDestroy_SafeList_Show();
+	</Binding>
+</Bindings>

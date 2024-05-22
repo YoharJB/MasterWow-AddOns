@@ -1,0 +1,35 @@
+------------------------------------------------------------------------
+r43 | zaman | 2010-09-18 11:44:17 +0000 (Sat, 18 Sep 2010) | 1 line
+Changed paths:
+   A /tags/v1.7.0.0 (from /trunk:42)
+
+Tagging as v1.7.0.0
+------------------------------------------------------------------------
+r42 | zaman | 2010-09-18 09:32:52 +0000 (Sat, 18 Sep 2010) | 1 line
+Changed paths:
+   M /trunk/EasyLoot.lua
+   M /trunk/EasyLoot.toc
+   M /trunk/EasyLoot.xml
+   M /trunk/README.txt
+
+Added destruction list, value limit for destruction of gray items and fixed a bug with automatic confirmation of autoloot.
+------------------------------------------------------------------------
+r40 | zaman | 2010-09-12 17:57:50 +0000 (Sun, 12 Sep 2010) | 2 lines
+Changed paths:
+   M /trunk/EasyLoot.lua
+   M /trunk/EasyLoot.toc
+   M /trunk/EasyLoot.xml
+
+Added pickup functionality to the search interface and it now shows the number if items in each stack.
+Click to pick up, shift-click to link into the Item Name text box.
+------------------------------------------------------------------------
+r38 | zaman | 2010-09-12 10:04:16 +0000 (Sun, 12 Sep 2010) | 2 lines
+Changed paths:
+   M /trunk/EasyLoot.lua
+   M /trunk/EasyLoot.toc
+   M /trunk/EasyLoot.xml
+   M /trunk/README.txt
+
+Pressing the button next to the text field will bring up a tool where you can search your bags for items with names containing a specific text.
+
+------------------------------------------------------------------------

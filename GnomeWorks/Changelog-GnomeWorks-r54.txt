@@ -1,0 +1,41 @@
+------------------------------------------------------------------------
+r54 | lilsparky | 2010-09-22 07:08:28 +0000 (Wed, 22 Sep 2010) | 5 lines
+Changed paths:
+   M /trunk/Details.lua
+   M /trunk/FrameHooks/AuctionHouse.lua
+   M /trunk/FrameHooks/Bank.lua
+   M /trunk/FrameHooks/Vendor.lua
+   M /trunk/GetTradeSkill.lua
+   M /trunk/GnomeWorks.lua
+   M /trunk/GnomeWorks.toc
+   M /trunk/Inventory.lua
+   M /trunk/MainWindow.lua
+   A /trunk/PseudoTrades
+   A /trunk/PseudoTrades/CommonSkills.lua
+   A /trunk/PseudoTrades/Disenchanting.lua
+   A /trunk/PseudoTrades/Milling.lua
+   A /trunk/PseudoTrades/Prospecting.lua
+   M /trunk/Queue.lua
+   M /trunk/RecipeData.lua
+   M /trunk/RecipeGroups.lua
+   M /trunk/ScrollFrame.lua
+   M /trunk/ShoppingList.lua
+   M /trunk/SkillList.lua
+   M /trunk/TradeButton.lua
+   M /trunk/Window.lua
+   M /trunk/plugins/arl.lua
+
+pseudo trades work (for the most part)
+fixed tailoring specialties
+added (simple) ability to delete single queue entries
+i think i fixed the over-purchase issue (yet again)
+
+------------------------------------------------------------------------
+r53 | lilsparky | 2010-08-11 09:24:24 +0000 (Wed, 11 Aug 2010) | 1 line
+Changed paths:
+   M /trunk/FrameHooks/Bank.lua
+   M /trunk/GnomeWorks.lua
+   M /trunk/MainWindow.lua
+
+trying to fix the early repeat break...
+------------------------------------------------------------------------
